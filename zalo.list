@@ -1,0 +1,16 @@
+#Zalo-IPCIDR - Host-Suffix
+#Author: flypn.net
+Date: 23/05/2022 22:31 Updated
+
+
+HOST-SUFFIX,zalo.me,Zalo
+HOST-SUFFIX,chat.zalo.me,Zalo
+HOST-SUFFIX,zadn.vn,Zalo
+HOST-SUFFIX,zaloapp.com,Zalo
+HOST-KEYWORD,zalo,Zalo
+IP-CIDR,120.138.68.0/24,Zalo
+IP-CIDR,120.138.69.0/24,Zalo
+IP-CIDR,120.138.74.0/24,Zalo
+IP-CIDR,49.213.114.0/24,Zalo
+IP-CIDR,49.213.106.0/24,Zalo
+IP-CIDR,118.102.1.0/24,Zalo
